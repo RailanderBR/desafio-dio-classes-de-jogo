@@ -25,7 +25,7 @@ class Hero {
         this.poder = poder;
     }
 
-    // Modelo de código para atacar com base na classe do personagem 
+    // Modelo de código para atacar com base na classe do personagem.
     atacar() {
         let ataque;
         
